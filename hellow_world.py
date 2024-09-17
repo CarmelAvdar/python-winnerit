@@ -1,4 +1,6 @@
-
+"""
+try pull
+"""
 print("enter a number, for finish enter 'q' ")
 number = input()
 count = sum_ = 0
